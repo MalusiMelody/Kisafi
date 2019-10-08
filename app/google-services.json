@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "100449001670",
+    "firebase_url": "https://kisafi-1.firebaseio.com",
+    "project_id": "kisafi-1",
+    "storage_bucket": "kisafi-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100449001670:android:6e5f4a09f436b1554df7c7",
+        "android_client_info": {
+          "package_name": "com.example.kisafi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100449001670-d601nlpsmnlvkedec170o8npnr32kgm7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kisafi",
+            "certificate_hash": "e2bd013d0b44e78e49c86f138fb93246dba553b0"
+          }
+        },
+        {
+          "client_id": "100449001670-j2h6ffm3alju846n34fjlfmdfrr6cujl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5DirBwiWyWz24zY-AStLR-3Vw172j_jY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100449001670-j2h6ffm3alju846n34fjlfmdfrr6cujl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
